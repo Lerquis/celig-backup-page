@@ -1,0 +1,267 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Mar 2025 08:19:43 at https://celigcr.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://celigcr.com/ -O1 "D:\Programacion\celig" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:19:44	Warning: 	Note: due to https://celigcr.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-content/uploads/wc-logs/, /wp-content/uploads/woocommerce_transient_files/, /wp-content/uploads/woocommerce_uploads/, /wp-admin/ (see in the options to disable this)
+08:21:34	Warning: 	Moved Permanently for https://celigcr.com/blog-standard/
+08:21:34	Warning: 	File has moved from https://celigcr.com/blog-standard/ to https://celigcr.com/noticias/
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/about-us/ (from https://celigcr.com/)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-1.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-2.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-3.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-4.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-5.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:36	Error: 	"Not Found" (404) at link https://celigcr.com/wp-content/themes/invetex/plugins/woocommerce/images/shop-cat-bg-6.jpg (from https://celigcr.com/wp-content/themes/invetex/skins/default/plugins/woocommerce/woocommerce.css)
+08:21:38	Warning: 	Moved Permanently for https://celigcr.com/consulta-legal-presencial/
+08:21:38	Warning: 	File has moved from https://celigcr.com/consulta-legal-presencial/ to https://celigcr.com/servicios-legales-lgbtiq/consulta-legal-presencial/
+08:22:06	Error: 	"Not Found" (404) at link https://celigcr.com/404 (from https://celigcr.com/galeria-videos/)
+08:24:10	Warning: 	Found for https://celigcr.com/product/consulta-legal-en-linea/?add-to-cart=6316
+08:24:10	Warning: 	File has moved from https://celigcr.com/product/consulta-legal-en-linea/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:24:14	Warning: 	Found for https://celigcr.com/product/consulta-legal-en-linea/?add-to-cart=55221
+08:24:14	Warning: 	File has moved from https://celigcr.com/product/consulta-legal-en-linea/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:24:45	Error: 	"Method Not Allowed" (405) at link https://celigcr.com/xmlrpc.php (from https://celigcr.com/las-mujeres-en-periodo-de-lactancia-pueden-ser-excluidas-de-laborar-horas-extraordinarias/)
+08:27:50	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/?add-to-cart=55632
+08:27:50	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:27:56	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/?add-to-cart=55034
+08:27:56	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/?add-to-cart=55034 to https://celigcr.com/carrito/
+08:27:58	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/?add-to-cart=16342
+08:27:58	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:29:06	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/?add-to-cart=55632
+08:29:06	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:29:09	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/?add-to-cart=55582
+08:29:09	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/?add-to-cart=55582 to https://celigcr.com/carrito/
+08:29:12	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/?add-to-cart=55299
+08:29:12	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/?add-to-cart=55299 to https://celigcr.com/carrito/
+08:29:16	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/?add-to-cart=55293
+08:29:16	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:31:05	Warning: 	Found for https://celigcr.com/product/servicio-de-apostillado/?add-to-cart=55034
+08:31:05	Warning: 	File has moved from https://celigcr.com/product/servicio-de-apostillado/?add-to-cart=55034 to https://celigcr.com/carrito/
+08:31:08	Warning: 	Found for https://celigcr.com/product/certificaciones-notariales/?add-to-cart=6309
+08:31:08	Warning: 	File has moved from https://celigcr.com/product/certificaciones-notariales/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:31:15	Warning: 	Found for https://celigcr.com/product/55221/?add-to-cart=6308
+08:31:15	Warning: 	File has moved from https://celigcr.com/product/55221/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:31:15	Warning: 	Found for https://celigcr.com/product/55221/?add-to-cart=55632
+08:31:15	Warning: 	File has moved from https://celigcr.com/product/55221/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:31:15	Warning: 	Found for https://celigcr.com/product/55221/?add-to-cart=55293
+08:31:15	Warning: 	File has moved from https://celigcr.com/product/55221/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:34:10	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6318
+08:34:10	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6318 to https://celigcr.com/carrito/
+08:34:10	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6316
+08:34:10	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:34:12	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6314
+08:34:12	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6314 to https://celigcr.com/carrito/
+08:34:12	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6309
+08:34:12	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/2/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:34:12	Warning: 	Moved Permanently for https://celigcr.com/product-category/servicios-legales/page/1/
+08:34:12	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/1/ to https://celigcr.com/product-category/servicios-legales/
+08:34:12	Warning: 	Found for https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=6308
+08:34:12	Warning: 	File has moved from https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=55283
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=16342
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/consulta-legal-presencial/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/paquete-deluxe/?add-to-cart=6309
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/paquete-deluxe/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/paquete-basico/?add-to-cart=55299
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/paquete-basico/?add-to-cart=55299 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/paquete-basico/?add-to-cart=55632
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/paquete-basico/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/paquete-basico/?add-to-cart=6316
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/paquete-basico/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/ocursos/?add-to-cart=55632
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/ocursos/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/ocursos/?add-to-cart=6309
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/ocursos/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product/ocursos/?add-to-cart=55221
+08:34:15	Warning: 	File has moved from https://celigcr.com/product/ocursos/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:34:15	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/3/?add-to-cart=6308
+08:34:15	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/3/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:34:17	Warning: 	Found for https://celigcr.com/product-category/servicios-legales/page/3/?add-to-cart=6282
+08:34:17	Warning: 	File has moved from https://celigcr.com/product-category/servicios-legales/page/3/?add-to-cart=6282 to https://celigcr.com/carrito/
+08:35:14	Warning: 	Found for https://celigcr.com/product-category/productos/?add-to-cart=55582
+08:35:14	Warning: 	File has moved from https://celigcr.com/product-category/productos/?add-to-cart=55582 to https://celigcr.com/carrito/
+08:35:14	Warning: 	Found for https://celigcr.com/product-category/productos/?add-to-cart=55299
+08:35:14	Warning: 	File has moved from https://celigcr.com/product-category/productos/?add-to-cart=55299 to https://celigcr.com/carrito/
+08:35:14	Warning: 	Found for https://celigcr.com/product-category/productos/?add-to-cart=55293
+08:35:14	Warning: 	File has moved from https://celigcr.com/product-category/productos/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:35:18	Warning: 	Found for https://celigcr.com/product-category/productos/?add-to-cart=55287
+08:35:18	Warning: 	File has moved from https://celigcr.com/product-category/productos/?add-to-cart=55287 to https://celigcr.com/carrito/
+08:35:18	Warning: 	Found for https://celigcr.com/product-category/productos/?add-to-cart=55283
+08:35:18	Warning: 	File has moved from https://celigcr.com/product-category/productos/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:35:18	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55287
+08:35:18	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55287 to https://celigcr.com/carrito/
+08:35:18	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55283
+08:35:18	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55274
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55221
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55034
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=55034 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=16342
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/2/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Moved Permanently for https://celigcr.com/product-tag/iva-incl/page/1/
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/1/ to https://celigcr.com/product-tag/iva-incl/
+08:35:21	Warning: 	Found for https://celigcr.com/product/taza/?add-to-cart=55221
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/taza/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=55283
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=6316
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=55274
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/botella-blanca-de-abeja/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/collar-de-perro/?add-to-cart=55274
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/collar-de-perro/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/collar-de-perro/?add-to-cart=6308
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/collar-de-perro/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/lampara/?add-to-cart=16342
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/lampara/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/lampara/?add-to-cart=55287
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/lampara/?add-to-cart=55287 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6318
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6318 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6316
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6314
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6314 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6309
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/3/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/4/?add-to-cart=6308
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/4/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product-tag/iva-incl/page/4/?add-to-cart=6282
+08:35:21	Warning: 	File has moved from https://celigcr.com/product-tag/iva-incl/page/4/?add-to-cart=6282 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/product/declaracion-jurada/?add-to-cart=6314
+08:35:21	Warning: 	File has moved from https://celigcr.com/product/declaracion-jurada/?add-to-cart=6314 to https://celigcr.com/carrito/
+08:35:21	Warning: 	Found for https://celigcr.com/carrito/?remove_item=e0b58aee1a67ba8ff2ec6c06ce5946d0&_wpnonce=2a78831b54
+08:35:21	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=e0b58aee1a67ba8ff2ec6c06ce5946d0&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:22	Warning: 	Found for https://celigcr.com/carrito/?remove_item=cddf97a969951d5d4db2728c7894524b&_wpnonce=2a78831b54
+08:35:22	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=cddf97a969951d5d4db2728c7894524b&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:22	Warning: 	Found for https://celigcr.com/carrito/?remove_item=612d1d91c87e0a19c048f3daa38676fd&_wpnonce=2a78831b54
+08:35:22	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=612d1d91c87e0a19c048f3daa38676fd&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:22	Warning: 	Found for https://celigcr.com/carrito/?remove_item=9bcfc9ffd5f45ae851f75a18a3c8f703&_wpnonce=2a78831b54
+08:35:22	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=9bcfc9ffd5f45ae851f75a18a3c8f703&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:22	Warning: 	Found for https://celigcr.com/carrito/?remove_item=3301c1d9084afc8e5e4b10b05d91abbe&_wpnonce=2a78831b54
+08:35:22	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=3301c1d9084afc8e5e4b10b05d91abbe&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:22	Warning: 	Found for https://celigcr.com/carrito/?remove_item=3911da740504196d5c148054fbf3c0ef&_wpnonce=2a78831b54
+08:35:22	Warning: 	File has moved from https://celigcr.com/carrito/?remove_item=3911da740504196d5c148054fbf3c0ef&_wpnonce=2a78831b54 to http://celigcr.com/carrito/?removed_item=1
+08:35:29	Warning: 	Found for https://celigcr.com/product/capitulaciones-matrimoniales/?add-to-cart=55632
+08:35:29	Warning: 	File has moved from https://celigcr.com/product/capitulaciones-matrimoniales/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:35:29	Warning: 	Found for https://celigcr.com/product/capitulaciones-matrimoniales/?add-to-cart=55274
+08:35:29	Warning: 	File has moved from https://celigcr.com/product/capitulaciones-matrimoniales/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-extranjero/?add-to-cart=6318
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-extranjero/?add-to-cart=6318 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-extranjero/?add-to-cart=55299
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-extranjero/?add-to-cart=55299 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-extranjero-nacional/?add-to-cart=16342
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-extranjero-nacional/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=55283
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=6308
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=55293
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/constitucion-de-patrimonio-familiar/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=55274
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=55283
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=6309
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/autenticacion-de-firma/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/llavero-cuadrado/?add-to-cart=6308
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/llavero-cuadrado/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/llavero-cuadrado/?add-to-cart=55274
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/llavero-cuadrado/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-extranjeros/?add-to-cart=55274
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-extranjeros/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-extranjeros/?add-to-cart=55293
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-extranjeros/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-nacionales/?add-to-cart=6318
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-nacionales/?add-to-cart=6318 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/matrimonios-nacionales/?add-to-cart=55221
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/matrimonios-nacionales/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product-category/productos/page/2/?add-to-cart=55274
+08:36:15	Warning: 	File has moved from https://celigcr.com/product-category/productos/page/2/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product-category/productos/page/2/?add-to-cart=55221
+08:36:15	Warning: 	File has moved from https://celigcr.com/product-category/productos/page/2/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Moved Permanently for https://celigcr.com/product-category/productos/page/1/
+08:36:15	Warning: 	File has moved from https://celigcr.com/product-category/productos/page/1/ to https://celigcr.com/product-category/productos/
+08:36:15	Warning: 	Found for https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=55582
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=55582 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=6308
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=6314
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/llavero-grande-de-corazones/?add-to-cart=6314 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=55034
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=55034 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=6316
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:36:15	Warning: 	Found for https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=55221
+08:36:15	Warning: 	File has moved from https://celigcr.com/product/botella-love-who-you-want/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:36:16	Warning: 	Moved Permanently for celigcr.com/robots.txt
+08:36:16	Warning: 	File has moved from celigcr.com/robots.txt to https://celigcr.com/
+08:36:16	Warning: 	Moved Permanently for celigcr.com/carrito/?removed_item=1
+08:36:16	Warning: 	File has moved from celigcr.com/carrito/?removed_item=1 to https://celigcr.com/?removed_item=1
+08:36:19	Warning: 	Found for https://celigcr.com/carrito/?undo_item=cddf97a969951d5d4db2728c7894524b&_wpnonce=2a78831b54
+08:36:19	Warning: 	File has moved from https://celigcr.com/carrito/?undo_item=cddf97a969951d5d4db2728c7894524b&_wpnonce=2a78831b54 to http://celigcr.com/tienda/
+08:37:13	Warning: 	Found for https://celigcr.com/carrito/?undo_item=612d1d91c87e0a19c048f3daa38676fd&_wpnonce=2a78831b54
+08:37:13	Warning: 	File has moved from https://celigcr.com/carrito/?undo_item=612d1d91c87e0a19c048f3daa38676fd&_wpnonce=2a78831b54 to http://celigcr.com/tienda/
+08:37:14	Warning: 	Found for https://celigcr.com/carrito/?undo_item=9bcfc9ffd5f45ae851f75a18a3c8f703&_wpnonce=2a78831b54
+08:37:14	Warning: 	File has moved from https://celigcr.com/carrito/?undo_item=9bcfc9ffd5f45ae851f75a18a3c8f703&_wpnonce=2a78831b54 to http://celigcr.com/tienda/
+08:37:14	Warning: 	Found for https://celigcr.com/carrito/?undo_item=3301c1d9084afc8e5e4b10b05d91abbe&_wpnonce=2a78831b54
+08:37:14	Warning: 	File has moved from https://celigcr.com/carrito/?undo_item=3301c1d9084afc8e5e4b10b05d91abbe&_wpnonce=2a78831b54 to http://celigcr.com/tienda/
+08:37:14	Warning: 	Found for https://celigcr.com/carrito/?undo_item=3911da740504196d5c148054fbf3c0ef&_wpnonce=2a78831b54
+08:37:14	Warning: 	File has moved from https://celigcr.com/carrito/?undo_item=3911da740504196d5c148054fbf3c0ef&_wpnonce=2a78831b54 to http://celigcr.com/tienda/
+08:37:14	Warning: 	Found for https://celigcr.com/tienda/?add-to-cart=55632
+08:37:14	Warning: 	File has moved from https://celigcr.com/tienda/?add-to-cart=55632 to https://celigcr.com/carrito/
+08:37:14	Warning: 	Found for https://celigcr.com/tienda/?add-to-cart=55582
+08:37:14	Warning: 	File has moved from https://celigcr.com/tienda/?add-to-cart=55582 to https://celigcr.com/carrito/
+08:38:44	Error: 	"Not Found" (404) at link https://celigcr.com/lost-password/?page_id=2334 (from https://celigcr.com/checkout/)
+08:39:05	Warning: 	Unexpected socket error during pre-loop
+08:39:05	Warning: 	Unexpected socket error during pre-loop
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55299
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55299 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55293
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55293 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55287
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55287 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55283
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55283 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55274
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55274 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/2/?add-to-cart=55221
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/2/?add-to-cart=55221 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Moved Permanently for https://celigcr.com/tienda/page/1/
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/1/ to https://celigcr.com/tienda/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/3/?add-to-cart=55034
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/3/?add-to-cart=55034 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/3/?add-to-cart=16342
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/3/?add-to-cart=16342 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/3/?add-to-cart=6318
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/3/?add-to-cart=6318 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/3/?add-to-cart=6316
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/3/?add-to-cart=6316 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/4/?add-to-cart=6314
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/4/?add-to-cart=6314 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/4/?add-to-cart=6309
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/4/?add-to-cart=6309 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/4/?add-to-cart=6308
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/4/?add-to-cart=6308 to https://celigcr.com/carrito/
+08:39:15	Warning: 	Found for https://celigcr.com/tienda/page/4/?add-to-cart=6282
+08:39:15	Warning: 	File has moved from https://celigcr.com/tienda/page/4/?add-to-cart=6282 to https://celigcr.com/carrito/
+08:41:05	Warning: 	Retry after error -2 (Receive Time Out) at link https://celigcr.com/author/asibaja/page/10/ (from https://celigcr.com/author/asibaja/page/8/)
+08:41:05	Warning: 	Retry after error -4 (Receive Error) at link https://celigcr.com/author/asibaja/page/11/ (from https://celigcr.com/author/asibaja/page/9/)
+08:41:05	Warning: 	Retry after error -4 (Receive Error) at link https://celigcr.com/author/asibaja/page/22/ (from https://celigcr.com/author/asibaja/page/24/)
+08:41:15	Warning: 	Retry after error -4 (Incorrect length (16041 Bytes, 24576 expected)) at link https://celigcr.com/noticias/page/18/ (from https://celigcr.com/noticias/page/20/)
+08:41:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/12/ (from https://celigcr.com/author/asibaja/page/10/)
+08:41:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/13/ (from https://celigcr.com/author/asibaja/page/11/)
+08:41:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/17/ (from https://celigcr.com/author/asibaja/page/19/)
+08:41:20	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/16/ (from https://celigcr.com/author/asibaja/page/18/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/14/ (from https://celigcr.com/author/asibaja/page/12/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/15/ (from https://celigcr.com/author/asibaja/page/13/)
+08:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://celigcr.com/author/asibaja/page/16/ (from https://celigcr.com/author/asibaja/page/18/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 40 seconds : 1883 links scanned, 1745 files written (106973407 bytes overall) [56479952 bytes received at 43446 bytes/sec], 68466706 bytes transferred using HTTP compression in 548 files, ratio 22%, 29.1 requests per connection
+(10 errors, 246 warnings, 0 messages)

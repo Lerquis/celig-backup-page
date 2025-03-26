@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+celigcr.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+celigcr.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_4bc76bc09a1525ef6784e707af22207d	t_3fa6e55ec0e273c58e023457ca3b39%7C%7C1743085337%7C%7C1743081737%7C%7C915c44d396ce528acee26263ac695630
+celigcr.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	ea42dffd1f5a19d6bf46e6feceb736cc
+
